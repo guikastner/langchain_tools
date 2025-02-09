@@ -1,0 +1,1 @@
+from langchain_community.tools import duckduckgo_search
